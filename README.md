@@ -18,5 +18,9 @@ Program uses such libraries as pytorch, pygame, matplotlib or numpy.
 ### Artificial intelligence graph
 - ![a2](https://github.com/Marcinsky/snake_ai/assets/140274974/ff1f68ac-a026-466b-80a6-6af5f4687759)
 
-
+## If you want to run it on your venv 
+- git init 
+- git clone "https://github.com/Marcinsky/snake_ai"
+- pip install -r requirements.txt
+- python ai.py
 
