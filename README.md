@@ -1,6 +1,6 @@
 # snake_ai
 ### This game ia a variation of an author "https://github.com/patrickloeber"
-### Snake Ai is ai version of popular game snake created by "Greger Lindstrom" back in 1997. 
+Snake Ai is ai version of popular game snake created by "Greger Lindstrom" back in 1997. 
 In this version, snake is upgraded by technology callled "reinforcement learning" , which through actions and mistakes ai learns how to maximise the score.
 Program uses such libraries as pytorch, pygame, matplotlib or numpy.
 ## Here are some printscreens when ai is learning the game
@@ -18,7 +18,7 @@ Program uses such libraries as pytorch, pygame, matplotlib or numpy.
 ### Artificial intelligence graph
 - ![a2](https://github.com/Marcinsky/snake_ai/assets/140274974/ff1f68ac-a026-466b-80a6-6af5f4687759)
 
-## If you want to run it on your venv 
+## How to run?
 - git init 
 - git clone "https://github.com/Marcinsky/snake_ai"
 - pip install -r requirements.txt
